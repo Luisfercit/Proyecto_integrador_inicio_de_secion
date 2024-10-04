@@ -16,7 +16,7 @@ body {
 }
 
 .contenedor {
-    display: inline-block;
+    display: Flex ;
     justify-content: center;
     align-items: center;
     height: 100vh;
